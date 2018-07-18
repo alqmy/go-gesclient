@@ -2,7 +2,7 @@ package internal
 
 import (
 	"fmt"
-	"github.com/jdextraze/go-gesclient/client"
+	"github.com/alqmy/go-gesclient/client"
 	"github.com/satori/go.uuid"
 	"sort"
 	"sync"

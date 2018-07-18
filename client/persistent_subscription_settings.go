@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/jdextraze/go-gesclient/common"
+	"github.com/alqmy/go-gesclient/common"
 	"time"
 )
 

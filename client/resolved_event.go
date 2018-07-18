@@ -2,7 +2,7 @@ package client
 
 import (
 	"fmt"
-	"github.com/jdextraze/go-gesclient/messages"
+	"github.com/alqmy/go-gesclient/messages"
 )
 
 type ResolvedEvent struct {

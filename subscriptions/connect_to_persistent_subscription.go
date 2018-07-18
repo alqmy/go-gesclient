@@ -3,10 +3,10 @@ package subscriptions
 import (
 	"errors"
 	"github.com/golang/protobuf/proto"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/guid"
-	"github.com/jdextraze/go-gesclient/messages"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/alqmy/go-gesclient/client"
+	"github.com/alqmy/go-gesclient/guid"
+	"github.com/alqmy/go-gesclient/messages"
+	"github.com/alqmy/go-gesclient/tasks"
 	"github.com/satori/go.uuid"
 )
 

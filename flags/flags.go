@@ -2,8 +2,8 @@ package flags
 
 import (
 	"flag"
-	"github.com/jdextraze/go-gesclient"
-	"github.com/jdextraze/go-gesclient/client"
+	"github.com/alqmy/go-gesclient"
+	"github.com/alqmy/go-gesclient/client"
 	"log"
 	"net"
 	"net/url"

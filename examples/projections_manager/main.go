@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/jdextraze/go-gesclient"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/projections"
+	"github.com/alqmy/go-gesclient"
+	"github.com/alqmy/go-gesclient/client"
+	"github.com/alqmy/go-gesclient/projections"
 	"log"
 	"net"
 	"net/url"

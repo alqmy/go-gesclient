@@ -3,9 +3,9 @@ package internal
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/messages"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/alqmy/go-gesclient/client"
+	"github.com/alqmy/go-gesclient/messages"
+	"github.com/alqmy/go-gesclient/tasks"
 	"io/ioutil"
 	"math/rand"
 	"net"

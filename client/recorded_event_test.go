@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/jdextraze/go-gesclient/guid"
-	"github.com/jdextraze/go-gesclient/messages"
+	"github.com/alqmy/go-gesclient/guid"
+	"github.com/alqmy/go-gesclient/messages"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/satori/go.uuid"

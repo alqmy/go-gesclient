@@ -2,7 +2,7 @@ package client
 
 import (
 	"errors"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/alqmy/go-gesclient/tasks"
 )
 
 type Transaction struct {

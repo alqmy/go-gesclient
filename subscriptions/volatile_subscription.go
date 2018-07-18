@@ -2,9 +2,9 @@ package subscriptions
 
 import (
 	"github.com/golang/protobuf/proto"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/messages"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/alqmy/go-gesclient/client"
+	"github.com/alqmy/go-gesclient/messages"
+	"github.com/alqmy/go-gesclient/tasks"
 )
 
 type VolatileSubscription struct {

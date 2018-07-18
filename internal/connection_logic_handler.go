@@ -3,9 +3,9 @@ package internal
 import (
 	"errors"
 	"fmt"
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/subscriptions"
-	"github.com/jdextraze/go-gesclient/tasks"
+	"github.com/alqmy/go-gesclient/client"
+	"github.com/alqmy/go-gesclient/subscriptions"
+	"github.com/alqmy/go-gesclient/tasks"
 	"github.com/satori/go.uuid"
 	"net"
 	"reflect"

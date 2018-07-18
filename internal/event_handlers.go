@@ -3,7 +3,7 @@ package internal
 import (
 	"errors"
 	"fmt"
-	"github.com/jdextraze/go-gesclient/client"
+	"github.com/alqmy/go-gesclient/client"
 	"reflect"
 )
 

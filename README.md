@@ -4,7 +4,7 @@ A [Go](https://golang.org/) port of the .Net client for [Event Store](https://ev
 
 ## License
 
-Ported code is released under the [MIT](https://github.com/jdextraze/go-gesclient/blob/master/LICENSE) license.
+Ported code is released under the [MIT](https://github.com/alqmy/go-gesclient/blob/master/LICENSE) license.
 
 Original code is released under the [Event Store License](https://github.com/EventStore/EventStore/blob/master/LICENSE.md).
 
@@ -53,7 +53,7 @@ This project is considered ready for production.
 
 ### Install
 
-Install using `go get github.com/jdextraze/go-gesclient`.
+Install using `go get github.com/alqmy/go-gesclient`.
 
 ### Optional Tools
 

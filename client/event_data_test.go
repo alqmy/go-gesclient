@@ -1,9 +1,9 @@
 package client_test
 
 import (
-	"github.com/jdextraze/go-gesclient/client"
-	"github.com/jdextraze/go-gesclient/guid"
-	"github.com/jdextraze/go-gesclient/messages"
+	"github.com/alqmy/go-gesclient/client"
+	"github.com/alqmy/go-gesclient/guid"
+	"github.com/alqmy/go-gesclient/messages"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/satori/go.uuid"
